@@ -1,0 +1,14 @@
+.nav-search{
+    float: left;
+    margin-right: 200px;
+}
+
+.nav-signin{
+    margin-right: 10px;
+}
+.signinEmail, .signinPassword, .signupEmail, .signupPassword, .signupConfirmPassword{
+    margin-top: 20px;
+}
+.signinPassword, .signupConfirmPassword{
+    margin-bottom: 25px;
+}
